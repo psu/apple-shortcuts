@@ -1,15 +1,13 @@
 # Quick Tana
 
-**Convert a single line input into a set of nodes, and add it to a specified target.**
+## About
+Convert a single line input into a set of nodes, and add it to a specified target.
 
-## Features
 - Support for supertags, target nodes, fields, fields with reference value, and child nodes. 
 - Token symbols can be customized. 
 - Support for default target and default field. 
 
-## Notes
-- Nodes and supertags have to be registered with id in advance.
-- Space is a special character used to separate tokens from refular content. A token never contains space. 
+NB! Nodes and supertags have to be registered with id in advance. Space is a special character used to separate tokens from refular content. A token never contains space. 
 
 ## Usage 
 Input a single line of text, optionally including tokens. 
